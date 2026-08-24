@@ -32,3 +32,13 @@ A: That Happens Every Now And Then, Just Close Roblox And Re-Try.
 
 
 Velocity is a no BS, easy to use executor for all your exploiting needs. No annoying malware or trojans, just a useful executor. Velocity uses multiple APIs, so you're guaranteed to have quick patches whenever Roblox updates!
+
+
+### Keywords:
+Roblox
+executor
+cheats
+crack
+velocity
+roblox cheat
+crack Velocity
