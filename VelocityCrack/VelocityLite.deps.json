@@ -1,0 +1,142 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "VelocityLite/1.0.0": {
+        "dependencies": {
+          "Microsoft.Web.WebView2": "1.0.3650.58",
+          "XamlAnimatedGif": "2.3.1",
+          "Microsoft.Web.WebView2.Core": "1.0.3650.58",
+          "Microsoft.Web.WebView2.WinForms": "1.0.3650.58",
+          "Microsoft.Web.WebView2.Wpf": "1.0.3650.58",
+          "VelocityApi": "1.0.0.0",
+          "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.19041.57"
+        },
+        "runtime": {
+          "VelocityLite.dll": {}
+        }
+      },
+      "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.19041.57": {
+        "runtime": {
+          "Microsoft.Windows.SDK.NET.dll": {
+            "assemblyVersion": "10.0.19041.38",
+            "fileVersion": "10.0.19041.55"
+          },
+          "WinRT.Runtime.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.48161"
+          }
+        }
+      },
+      "Microsoft.Web.WebView2/1.0.3650.58": {
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/WebView2Loader.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "1.0.3650.58"
+          },
+          "runtimes/win-x64/native/WebView2Loader.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "1.0.3650.58"
+          },
+          "runtimes/win-x86/native/WebView2Loader.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "1.0.3650.58"
+          }
+        }
+      },
+      "XamlAnimatedGif/2.3.1": {
+        "runtime": {
+          "lib/net5.0-windows7.0/XamlAnimatedGif.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.3.1.0"
+          }
+        }
+      },
+      "Microsoft.Web.WebView2.Core/1.0.3650.58": {
+        "runtime": {
+          "Microsoft.Web.WebView2.Core.dll": {
+            "assemblyVersion": "1.0.3650.58",
+            "fileVersion": "1.0.3650.58"
+          }
+        }
+      },
+      "Microsoft.Web.WebView2.WinForms/1.0.3650.58": {
+        "runtime": {
+          "Microsoft.Web.WebView2.WinForms.dll": {
+            "assemblyVersion": "1.0.3650.58",
+            "fileVersion": "1.0.3650.58"
+          }
+        }
+      },
+      "Microsoft.Web.WebView2.Wpf/1.0.3650.58": {
+        "runtime": {
+          "Microsoft.Web.WebView2.Wpf.dll": {
+            "assemblyVersion": "1.0.3650.58",
+            "fileVersion": "1.0.3650.58"
+          }
+        }
+      },
+      "VelocityApi/1.0.0.0": {
+        "runtime": {
+          "VelocityApi.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VelocityLite/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.19041.57": {
+      "type": "runtimepack",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Web.WebView2/1.0.3650.58": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BrfpVqOuWtW8yA/it365aB6K6H6EYCXjqJkX730UiO7weVsSYjUyKPFVY5WGa+IfRHqknh619uXHMYTOR4WFRw==",
+      "path": "microsoft.web.webview2/1.0.3650.58",
+      "hashPath": "microsoft.web.webview2.1.0.3650.58.nupkg.sha512"
+    },
+    "XamlAnimatedGif/2.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LthlwWKP3fGGZBp3xnBzMOygUihFX0gj1vAEyCgt1lrq6d1fPxtpEmrzpwzQiX+AJ/TnZn+7a2FjRXQL/K0h6w==",
+      "path": "xamlanimatedgif/2.3.1",
+      "hashPath": "xamlanimatedgif.2.3.1.nupkg.sha512"
+    },
+    "Microsoft.Web.WebView2.Core/1.0.3650.58": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Web.WebView2.WinForms/1.0.3650.58": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Web.WebView2.Wpf/1.0.3650.58": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VelocityApi/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
